@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "334470394884",
+    "firebase_url": "https://quickchat-1dd19.firebaseio.com",
+    "project_id": "quickchat-1dd19",
+    "storage_bucket": "quickchat-1dd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334470394884:android:15ed76fa55ace232367151",
+        "android_client_info": {
+          "package_name": "br.com.jackson.quickchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334470394884-1fb705mam5b6ni0uo3l2gef354n42jrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jackson.quickchat",
+            "certificate_hash": "9fc456ead39f67a7c4682ee7f0d1fdb7d8a27a3e"
+          }
+        },
+        {
+          "client_id": "334470394884-fft17uagpchb7nem81heg0bpd3l3kq13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX1EXd-vn5y3rv8nAqRq_FVggl4ge1e-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334470394884-fft17uagpchb7nem81heg0bpd3l3kq13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
